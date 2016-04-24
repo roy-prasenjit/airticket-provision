@@ -7,11 +7,10 @@ travel services while offering the best deals and the most innovative products i
 ***
 ### Tech
 airticket-provision uses the following technologies
-
-> servlets - Controllers to handle dynamic changing data
-> JSPs - Handles client end information and UI rendering
-> Oracle Database
-> html,css and validation scripts are embedded in the jsps.
+  - servlets - Controllers to handle dynamic changing data
+  - JSPs - Handles client end information and UI rendering
+  - Oracle Database
+  - html,css and validation scripts are embedded in the jsps.
 
 ### Schema Information
 #### Tables
